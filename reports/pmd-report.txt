@@ -1,0 +1,1368 @@
+src/GameLife.java:1:	UnusedImports: Avoid unused imports such as 'java.util.Random'
+src/GameLife.java:1:	UnusedImports: Avoid unused imports such as 'java.util.Random'
+src/GameLife.java:4:	CommentRequired: Class comments are required
+src/GameLife.java:4:	CommentRequired: Class comments are required
+src/GameLife.java:4:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/GameLife.java:4:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/GameLife.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:5:	CommentRequired: Field comments are required
+src/GameLife.java:5:	CommentRequired: Field comments are required
+src/GameLife.java:5:	FinalFieldCouldBeStatic: This final field could be made static
+src/GameLife.java:5:	FinalFieldCouldBeStatic: This final field could be made static
+src/GameLife.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:6:	CommentRequired: Field comments are required
+src/GameLife.java:6:	CommentRequired: Field comments are required
+src/GameLife.java:6:	FinalFieldCouldBeStatic: This final field could be made static
+src/GameLife.java:6:	FinalFieldCouldBeStatic: This final field could be made static
+src/GameLife.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:7:	CommentRequired: Field comments are required
+src/GameLife.java:7:	CommentRequired: Field comments are required
+src/GameLife.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:9:	CommentRequired: Field comments are required
+src/GameLife.java:9:	CommentRequired: Field comments are required
+src/GameLife.java:9:	FinalFieldCouldBeStatic: This final field could be made static
+src/GameLife.java:9:	FinalFieldCouldBeStatic: This final field could be made static
+src/GameLife.java:9:	ShortVariable: Avoid variables with short names like Y
+src/GameLife.java:9:	ShortVariable: Avoid variables with short names like Y
+src/GameLife.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameLife.java:10:	CommentRequired: Field comments are required
+src/GameLife.java:10:	CommentRequired: Field comments are required
+src/GameLife.java:10:	FinalFieldCouldBeStatic: This final field could be made static
+src/GameLife.java:10:	FinalFieldCouldBeStatic: This final field could be made static
+src/GameLife.java:10:	ShortVariable: Avoid variables with short names like No
+src/GameLife.java:10:	ShortVariable: Avoid variables with short names like No
+src/GameLife.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the GameLife constructor if you want a default access modifier
+src/GameLife.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the GameLife constructor if you want a default access modifier
+src/GameLife.java:27:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/GameLife.java:27:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/GameLife.java:27:	ShortVariable: Avoid variables with short names like c
+src/GameLife.java:27:	ShortVariable: Avoid variables with short names like c
+src/GameLife.java:28:	SystemPrintln: System.out.print is used
+src/GameLife.java:28:	SystemPrintln: System.out.print is used
+src/GameLife.java:31:	SystemPrintln: System.out.println is used
+src/GameLife.java:31:	SystemPrintln: System.out.println is used
+src/GameLife.java:33:	SystemPrintln: System.out.println is used
+src/GameLife.java:33:	SystemPrintln: System.out.println is used
+src/GameLife.java:43:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/GameLife.java:43:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/GameLife.java:43:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/GameLife.java:43:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/GameLife.java:43:	ShortVariable: Avoid variables with short names like x
+src/GameLife.java:43:	ShortVariable: Avoid variables with short names like x
+src/GameLife.java:43:	ShortVariable: Avoid variables with short names like y
+src/GameLife.java:43:	ShortVariable: Avoid variables with short names like y
+src/GameLife.java:44:	LocalVariableCouldBeFinal: Local variable 'isEmpty' could be declared final
+src/GameLife.java:44:	LocalVariableCouldBeFinal: Local variable 'isEmpty' could be declared final
+src/GameLife.java:44:	UselessParentheses: Useless parentheses.
+src/GameLife.java:44:	UselessParentheses: Useless parentheses.
+src/GameLife.java:55:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/GameLife.java:55:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/GameLife.java:55:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/GameLife.java:55:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/GameLife.java:55:	ShortVariable: Avoid variables with short names like x
+src/GameLife.java:55:	ShortVariable: Avoid variables with short names like x
+src/GameLife.java:55:	ShortVariable: Avoid variables with short names like y
+src/GameLife.java:55:	ShortVariable: Avoid variables with short names like y
+src/GameLife.java:56:	ShortVariable: Avoid variables with short names like n
+src/GameLife.java:56:	ShortVariable: Avoid variables with short names like n
+src/GameLife.java:78:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '78'-'85').
+src/GameLife.java:78:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '78'-'85').
+src/GameLife.java:78:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '78'-'87').
+src/GameLife.java:78:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '78'-'87').
+src/GameLife.java:78:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '78'-'89').
+src/GameLife.java:78:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '78'-'89').
+src/GameLife.java:79:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'y' (lines '79'-'93').
+src/GameLife.java:79:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'y' (lines '79'-'93').
+src/GameLife.java:79:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'y' (lines '79'-'109').
+src/GameLife.java:79:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'y' (lines '79'-'109').
+src/GameLife.java:79:	ShortVariable: Avoid variables with short names like y
+src/GameLife.java:79:	ShortVariable: Avoid variables with short names like y
+src/GameLife.java:80:	LocalVariableCouldBeFinal: Local variable 'rowArr' could be declared final
+src/GameLife.java:80:	LocalVariableCouldBeFinal: Local variable 'rowArr' could be declared final
+src/GameLife.java:81:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'x' (lines '81'-'81').
+src/GameLife.java:81:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'x' (lines '81'-'81').
+src/GameLife.java:81:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'x' (lines '81'-'109').
+src/GameLife.java:81:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'x' (lines '81'-'109').
+src/GameLife.java:81:	ShortVariable: Avoid variables with short names like x
+src/GameLife.java:81:	ShortVariable: Avoid variables with short names like x
+src/GameLife.java:82:	LocalVariableCouldBeFinal: Local variable 'colData' could be declared final
+src/GameLife.java:82:	LocalVariableCouldBeFinal: Local variable 'colData' could be declared final
+src/GameLife.java:83:	LocalVariableCouldBeFinal: Local variable 'neighbor' could be declared final
+src/GameLife.java:83:	LocalVariableCouldBeFinal: Local variable 'neighbor' could be declared final
+src/GameLife.java:84:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/GameLife.java:84:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/GameLife.java:85:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '85'-'85').
+src/GameLife.java:85:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '85'-'85').
+src/GameLife.java:85:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '85'-'87').
+src/GameLife.java:85:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '85'-'87').
+src/GameLife.java:85:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '85'-'89').
+src/GameLife.java:85:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '85'-'89').
+src/GameLife.java:87:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '87'-'85').
+src/GameLife.java:87:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '87'-'85').
+src/GameLife.java:87:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '87'-'87').
+src/GameLife.java:87:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '87'-'87').
+src/GameLife.java:87:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '87'-'89').
+src/GameLife.java:87:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '87'-'89').
+src/GameLife.java:89:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '89'-'85').
+src/GameLife.java:89:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '89'-'85').
+src/GameLife.java:89:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '89'-'87').
+src/GameLife.java:89:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '89'-'87').
+src/GameLife.java:89:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '89'-'89').
+src/GameLife.java:89:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '89'-'89').
+src/GameLife.java:91:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'x' (lines '91'-'81').
+src/GameLife.java:91:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'x' (lines '91'-'81').
+src/GameLife.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'x' (lines '91'-'109').
+src/GameLife.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'x' (lines '91'-'109').
+src/GameLife.java:93:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'y' (lines '93'-'93').
+src/GameLife.java:93:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'y' (lines '93'-'93').
+src/GameLife.java:93:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'y' (lines '93'-'109').
+src/GameLife.java:93:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'y' (lines '93'-'109').
+src/GameLife.java:95:	CommentSize: Comment is too large: Too many lines
+src/GameLife.java:95:	CommentSize: Comment is too large: Too many lines
+src/GameLife.java:114:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+src/GameLife.java:114:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+src/GameLife.java:114:	ShortVariable: Avoid variables with short names like a
+src/GameLife.java:114:	ShortVariable: Avoid variables with short names like a
+src/GameLife.java:115:	LocalVariableCouldBeFinal: Local variable 'gol' could be declared final
+src/GameLife.java:115:	LocalVariableCouldBeFinal: Local variable 'gol' could be declared final
+src/GameLife.java:119:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/GameLife.java:119:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/GameLife.java:119:	LocalVariableCouldBeFinal: Local variable 'in' could be declared final
+src/GameLife.java:119:	LocalVariableCouldBeFinal: Local variable 'in' could be declared final
+src/GameLife.java:119:	ShortVariable: Avoid variables with short names like in
+src/GameLife.java:119:	ShortVariable: Avoid variables with short names like in
+src/GameLife.java:121:	SystemPrintln: System.out.println is used
+src/GameLife.java:121:	SystemPrintln: System.out.println is used
+src/GameLife.java:124:	SystemPrintln: System.out.println is used
+src/GameLife.java:124:	SystemPrintln: System.out.println is used
+src/findmedian.java:2:	CommentRequired: Class comments are required
+src/findmedian.java:2:	CommentRequired: Class comments are required
+src/findmedian.java:2:	ModifiedCyclomaticComplexity: The class 'findmedian' has a Modified Cyclomatic Complexity of 9 (Highest = 14).
+src/findmedian.java:2:	ModifiedCyclomaticComplexity: The class 'findmedian' has a Modified Cyclomatic Complexity of 9 (Highest = 14).
+src/findmedian.java:2:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/findmedian.java:2:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/findmedian.java:2:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/findmedian.java:2:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/findmedian.java:4:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the getmedian method if you want a default access modifier
+src/findmedian.java:4:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the getmedian method if you want a default access modifier
+src/findmedian.java:4:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/findmedian.java:4:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 's1' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 's1' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 's2' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 's2' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 't1' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 't1' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 't2' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 't2' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/findmedian.java:4:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/findmedian.java:4:	ModifiedCyclomaticComplexity: The method 'getmedian' has a Modified Cyclomatic Complexity of 14.
+src/findmedian.java:4:	ModifiedCyclomaticComplexity: The method 'getmedian' has a Modified Cyclomatic Complexity of 14.
+src/findmedian.java:4:	NPathComplexity: The method 'getmedian(int, int, int, int, int, int)' has an NPath complexity of 968
+src/findmedian.java:4:	NPathComplexity: The method 'getmedian(int, int, int, int, int, int)' has an NPath complexity of 968
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like s1
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like s1
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like s2
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like s2
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like t1
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like t1
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like t2
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like t2
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like x
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like x
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like y
+src/findmedian.java:4:	ShortVariable: Avoid variables with short names like y
+src/findmedian.java:6:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/findmedian.java:6:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/findmedian.java:6:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/findmedian.java:6:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/findmedian.java:6:	ShortVariable: Avoid variables with short names like m
+src/findmedian.java:6:	ShortVariable: Avoid variables with short names like m
+src/findmedian.java:6:	ShortVariable: Avoid variables with short names like n
+src/findmedian.java:6:	ShortVariable: Avoid variables with short names like n
+src/findmedian.java:7:	LocalVariableCouldBeFinal: Local variable 'l1' could be declared final
+src/findmedian.java:7:	LocalVariableCouldBeFinal: Local variable 'l1' could be declared final
+src/findmedian.java:7:	LocalVariableCouldBeFinal: Local variable 'l2' could be declared final
+src/findmedian.java:7:	LocalVariableCouldBeFinal: Local variable 'l2' could be declared final
+src/findmedian.java:7:	LocalVariableCouldBeFinal: Local variable 'r1' could be declared final
+src/findmedian.java:7:	LocalVariableCouldBeFinal: Local variable 'r1' could be declared final
+src/findmedian.java:7:	LocalVariableCouldBeFinal: Local variable 'r2' could be declared final
+src/findmedian.java:7:	LocalVariableCouldBeFinal: Local variable 'r2' could be declared final
+src/findmedian.java:7:	ShortVariable: Avoid variables with short names like l1
+src/findmedian.java:7:	ShortVariable: Avoid variables with short names like l1
+src/findmedian.java:7:	ShortVariable: Avoid variables with short names like l2
+src/findmedian.java:7:	ShortVariable: Avoid variables with short names like l2
+src/findmedian.java:7:	ShortVariable: Avoid variables with short names like r1
+src/findmedian.java:7:	ShortVariable: Avoid variables with short names like r1
+src/findmedian.java:7:	ShortVariable: Avoid variables with short names like r2
+src/findmedian.java:7:	ShortVariable: Avoid variables with short names like r2
+src/findmedian.java:8:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'mid1' (lines '8'-'52').
+src/findmedian.java:8:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'mid1' (lines '8'-'52').
+src/findmedian.java:8:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'mid2' (lines '8'-'52').
+src/findmedian.java:8:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'mid2' (lines '8'-'52').
+src/findmedian.java:8:	LocalVariableCouldBeFinal: Local variable 'mid1' could be declared final
+src/findmedian.java:8:	LocalVariableCouldBeFinal: Local variable 'mid1' could be declared final
+src/findmedian.java:8:	LocalVariableCouldBeFinal: Local variable 'mid2' could be declared final
+src/findmedian.java:8:	LocalVariableCouldBeFinal: Local variable 'mid2' could be declared final
+src/findmedian.java:9:	ShortVariable: Avoid variables with short names like i
+src/findmedian.java:9:	ShortVariable: Avoid variables with short names like i
+src/findmedian.java:9:	ShortVariable: Avoid variables with short names like j
+src/findmedian.java:9:	ShortVariable: Avoid variables with short names like j
+src/findmedian.java:12:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'i' (lines '12'-'52').
+src/findmedian.java:12:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'i' (lines '12'-'52').
+src/findmedian.java:14:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:14:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:14:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'i' (lines '14'-'52').
+src/findmedian.java:14:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'i' (lines '14'-'52').
+src/findmedian.java:16:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'j' (lines '16'-'52').
+src/findmedian.java:16:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'j' (lines '16'-'52').
+src/findmedian.java:18:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:18:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:18:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'j' (lines '18'-'52').
+src/findmedian.java:18:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'j' (lines '18'-'52').
+src/findmedian.java:20:	UselessParentheses: Useless parentheses.
+src/findmedian.java:20:	UselessParentheses: Useless parentheses.
+src/findmedian.java:20:	UselessParentheses: Useless parentheses.
+src/findmedian.java:20:	UselessParentheses: Useless parentheses.
+src/findmedian.java:23:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:23:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:27:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:27:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:31:	LocalVariableCouldBeFinal: Local variable 'max' could be declared final
+src/findmedian.java:31:	LocalVariableCouldBeFinal: Local variable 'max' could be declared final
+src/findmedian.java:32:	LocalVariableCouldBeFinal: Local variable 'min' could be declared final
+src/findmedian.java:32:	LocalVariableCouldBeFinal: Local variable 'min' could be declared final
+src/findmedian.java:33:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:33:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:37:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:37:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:41:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/findmedian.java:41:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/findmedian.java:42:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:42:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:42:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:42:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:43:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:43:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:43:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:43:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:47:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:47:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:47:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:47:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:48:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:48:	ControlStatementBraces: This statement should have braces
+src/findmedian.java:48:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:48:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/findmedian.java:54:	CommentRequired: Public method and constructor comments are required
+src/findmedian.java:54:	CommentRequired: Public method and constructor comments are required
+src/findmedian.java:54:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/findmedian.java:54:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/findmedian.java:56:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/findmedian.java:56:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/findmedian.java:56:	LocalVariableCouldBeFinal: Local variable 'scanner' could be declared final
+src/findmedian.java:56:	LocalVariableCouldBeFinal: Local variable 'scanner' could be declared final
+src/findmedian.java:58:	SystemPrintln: System.out.println is used
+src/findmedian.java:58:	SystemPrintln: System.out.println is used
+src/findmedian.java:59:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/findmedian.java:59:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/findmedian.java:59:	ShortVariable: Avoid variables with short names like n
+src/findmedian.java:59:	ShortVariable: Avoid variables with short names like n
+src/findmedian.java:60:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'arr1' (lines '60'-'64').
+src/findmedian.java:60:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'arr1' (lines '60'-'64').
+src/findmedian.java:61:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'arr2' (lines '61'-'68').
+src/findmedian.java:61:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'arr2' (lines '61'-'68').
+src/findmedian.java:62:	SystemPrintln: System.out.println is used
+src/findmedian.java:62:	SystemPrintln: System.out.println is used
+src/findmedian.java:64:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'arr1' (lines '64'-'64').
+src/findmedian.java:64:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'arr1' (lines '64'-'64').
+src/findmedian.java:66:	SystemPrintln: System.out.println is used
+src/findmedian.java:66:	SystemPrintln: System.out.println is used
+src/findmedian.java:68:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'arr2' (lines '68'-'68').
+src/findmedian.java:68:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'arr2' (lines '68'-'68').
+src/findmedian.java:71:	LocalVariableCouldBeFinal: Local variable 'res' could be declared final
+src/findmedian.java:71:	LocalVariableCouldBeFinal: Local variable 'res' could be declared final
+src/findmedian.java:72:	SystemPrintln: System.out.println is used
+src/findmedian.java:72:	SystemPrintln: System.out.println is used
+src/findmedian.java:73:	SystemPrintln: System.out.println is used
+src/findmedian.java:73:	SystemPrintln: System.out.println is used
+src/jsq.java:9:	UnusedImports: Avoid unused imports such as 'java.awt.FlowLayout'
+src/jsq.java:9:	UnusedImports: Avoid unused imports such as 'java.awt.FlowLayout'
+src/jsq.java:14:	UnusedImports: Avoid unused imports such as 'java.awt.RenderingHints.Key'
+src/jsq.java:14:	UnusedImports: Avoid unused imports such as 'java.awt.RenderingHints.Key'
+src/jsq.java:25:	UnusedImports: Avoid unused imports such as 'javax.swing.LayoutFocusTraversalPolicy'
+src/jsq.java:25:	UnusedImports: Avoid unused imports such as 'javax.swing.LayoutFocusTraversalPolicy'
+src/jsq.java:29:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/jsq.java:29:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/jsq.java:29:	ModifiedCyclomaticComplexity: The class 'jsq' has a Modified Cyclomatic Complexity of 8 (Highest = 44).
+src/jsq.java:29:	ModifiedCyclomaticComplexity: The class 'jsq' has a Modified Cyclomatic Complexity of 8 (Highest = 44).
+src/jsq.java:29:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/jsq.java:29:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/jsq.java:29:	ShortClassName: Avoid short class names like jsq
+src/jsq.java:29:	ShortClassName: Avoid short class names like jsq
+src/jsq.java:29:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/jsq.java:29:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/jsq.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:30:	CommentRequired: Field comments are required
+src/jsq.java:30:	CommentRequired: Field comments are required
+src/jsq.java:30:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/jsq.java:30:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/jsq.java:31:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:31:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:31:	CommentRequired: Field comments are required
+src/jsq.java:31:	CommentRequired: Field comments are required
+src/jsq.java:34:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:34:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:34:	CommentRequired: Field comments are required
+src/jsq.java:34:	CommentRequired: Field comments are required
+src/jsq.java:35:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:35:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:35:	CommentRequired: Field comments are required
+src/jsq.java:35:	CommentRequired: Field comments are required
+src/jsq.java:37:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:37:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:37:	CommentRequired: Field comments are required
+src/jsq.java:37:	CommentRequired: Field comments are required
+src/jsq.java:38:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:38:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:38:	CommentRequired: Field comments are required
+src/jsq.java:38:	CommentRequired: Field comments are required
+src/jsq.java:39:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:39:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:39:	CommentRequired: Field comments are required
+src/jsq.java:39:	CommentRequired: Field comments are required
+src/jsq.java:40:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:40:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:40:	CommentRequired: Field comments are required
+src/jsq.java:40:	CommentRequired: Field comments are required
+src/jsq.java:42:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:42:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:42:	CommentRequired: Field comments are required
+src/jsq.java:42:	CommentRequired: Field comments are required
+src/jsq.java:43:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:43:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:43:	CommentRequired: Field comments are required
+src/jsq.java:43:	CommentRequired: Field comments are required
+src/jsq.java:44:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:44:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:44:	CommentRequired: Field comments are required
+src/jsq.java:44:	CommentRequired: Field comments are required
+src/jsq.java:46:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:46:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:46:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the MAXLEN field if you want a default access modifier
+src/jsq.java:46:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the MAXLEN field if you want a default access modifier
+src/jsq.java:46:	CommentRequired: Field comments are required
+src/jsq.java:46:	CommentRequired: Field comments are required
+src/jsq.java:46:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/jsq.java:46:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/jsq.java:46:	FinalFieldCouldBeStatic: This final field could be made static
+src/jsq.java:46:	FinalFieldCouldBeStatic: This final field could be made static
+src/jsq.java:47:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:47:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/jsq.java:47:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the PI field if you want a default access modifier
+src/jsq.java:47:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the PI field if you want a default access modifier
+src/jsq.java:47:	CommentRequired: Field comments are required
+src/jsq.java:47:	CommentRequired: Field comments are required
+src/jsq.java:47:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/jsq.java:47:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/jsq.java:47:	FinalFieldCouldBeStatic: This final field could be made static
+src/jsq.java:47:	FinalFieldCouldBeStatic: This final field could be made static
+src/jsq.java:47:	ShortVariable: Avoid variables with short names like PI
+src/jsq.java:47:	ShortVariable: Avoid variables with short names like PI
+src/jsq.java:47:	UseUnderscoresInNumericLiterals: Number 3.141592657 should separate every third digit with an underscore
+src/jsq.java:47:	UseUnderscoresInNumericLiterals: Number 3.141592657 should separate every third digit with an underscore
+src/jsq.java:49:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:49:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:51:	ConstructorCallsOverridableMethod: Overridable method 'initLayout' called during object construction
+src/jsq.java:51:	ConstructorCallsOverridableMethod: Overridable method 'initLayout' called during object construction
+src/jsq.java:63:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/jsq.java:63:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/jsq.java:69:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:69:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:70:	LocalVariableCouldBeFinal: Local variable 'calckeysPanel' could be declared final
+src/jsq.java:70:	LocalVariableCouldBeFinal: Local variable 'calckeysPanel' could be declared final
+src/jsq.java:73:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/jsq.java:73:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/jsq.java:74:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:74:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:75:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:75:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:75:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:75:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:78:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/jsq.java:78:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/jsq.java:79:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:79:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:79:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:79:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:82:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/jsq.java:82:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/jsq.java:83:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:83:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:83:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:83:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:86:	LocalVariableCouldBeFinal: Local variable 'text' could be declared final
+src/jsq.java:86:	LocalVariableCouldBeFinal: Local variable 'text' could be declared final
+src/jsq.java:90:	LocalVariableCouldBeFinal: Local variable 'panel1' could be declared final
+src/jsq.java:90:	LocalVariableCouldBeFinal: Local variable 'panel1' could be declared final
+src/jsq.java:93:	LocalVariableCouldBeFinal: Local variable 'gbc' could be declared final
+src/jsq.java:93:	LocalVariableCouldBeFinal: Local variable 'gbc' could be declared final
+src/jsq.java:101:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:101:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:107:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:107:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:113:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:113:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:119:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:119:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:125:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:125:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:130:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:130:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:136:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:136:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:139:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:139:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:140:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:140:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:141:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:141:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:145:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:145:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:147:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:147:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:147:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:147:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:150:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:150:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:150:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:150:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:153:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:153:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:153:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:153:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:158:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:158:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:158:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/jsq.java:158:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/jsq.java:158:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/jsq.java:158:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/jsq.java:158:	ShortVariable: Avoid variables with short names like e
+src/jsq.java:158:	ShortVariable: Avoid variables with short names like e
+src/jsq.java:159:	LocalVariableCouldBeFinal: Local variable 'label' could be declared final
+src/jsq.java:159:	LocalVariableCouldBeFinal: Local variable 'label' could be declared final
+src/jsq.java:160:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:160:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:160:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/jsq.java:160:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/jsq.java:162:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:162:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:162:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/jsq.java:162:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/jsq.java:175:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/jsq.java:175:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/jsq.java:175:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+src/jsq.java:175:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+src/jsq.java:175:	ShortVariable: Avoid variables with short names like i
+src/jsq.java:175:	ShortVariable: Avoid variables with short names like i
+src/jsq.java:176:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/jsq.java:176:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/jsq.java:190:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:190:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:190:	MethodArgumentCouldBeFinal: Parameter 'key' is not assigned and could be declared final
+src/jsq.java:190:	MethodArgumentCouldBeFinal: Parameter 'key' is not assigned and could be declared final
+src/jsq.java:191:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'text' (lines '191'-'229').
+src/jsq.java:191:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'text' (lines '191'-'229').
+src/jsq.java:191:	LocalVariableCouldBeFinal: Local variable 'text' could be declared final
+src/jsq.java:191:	LocalVariableCouldBeFinal: Local variable 'text' could be declared final
+src/jsq.java:192:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/jsq.java:192:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/jsq.java:197:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:197:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:208:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/jsq.java:208:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/jsq.java:208:	UselessParentheses: Useless parentheses.
+src/jsq.java:208:	UselessParentheses: Useless parentheses.
+src/jsq.java:212:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/jsq.java:212:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/jsq.java:213:	UselessParentheses: Useless parentheses.
+src/jsq.java:213:	UselessParentheses: Useless parentheses.
+src/jsq.java:221:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:221:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:221:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:221:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:231:	MethodArgumentCouldBeFinal: Parameter 'key' is not assigned and could be declared final
+src/jsq.java:231:	MethodArgumentCouldBeFinal: Parameter 'key' is not assigned and could be declared final
+src/jsq.java:248:	ExcessiveMethodLength: Avoid really long methods.
+src/jsq.java:248:	ExcessiveMethodLength: Avoid really long methods.
+src/jsq.java:248:	MethodArgumentCouldBeFinal: Parameter 'tipcommand1' is not assigned and could be declared final
+src/jsq.java:248:	MethodArgumentCouldBeFinal: Parameter 'tipcommand1' is not assigned and could be declared final
+src/jsq.java:248:	MethodArgumentCouldBeFinal: Parameter 'tipcommand2' is not assigned and could be declared final
+src/jsq.java:248:	MethodArgumentCouldBeFinal: Parameter 'tipcommand2' is not assigned and could be declared final
+src/jsq.java:248:	ModifiedCyclomaticComplexity: The method 'TipChecker' has a Modified Cyclomatic Complexity of 44.
+src/jsq.java:248:	ModifiedCyclomaticComplexity: The method 'TipChecker' has a Modified Cyclomatic Complexity of 44.
+src/jsq.java:248:	NPathComplexity: The method 'TipChecker(String, String)' has an NPath complexity of 40277952
+src/jsq.java:248:	NPathComplexity: The method 'TipChecker(String, String)' has an NPath complexity of 40277952
+src/jsq.java:248:	NcssCount: The method 'TipChecker(String, String)' has a NCSS line count of 114.
+src/jsq.java:248:	NcssCount: The method 'TipChecker(String, String)' has a NCSS line count of 114.
+src/jsq.java:250:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'Tipcode1' (lines '250'-'262').
+src/jsq.java:250:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'Tipcode1' (lines '250'-'262').
+src/jsq.java:250:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'Tipcode2' (lines '250'-'412').
+src/jsq.java:250:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'Tipcode2' (lines '250'-'412').
+src/jsq.java:250:	LocalVariableCouldBeFinal: Local variable 'Tipcode2' could be declared final
+src/jsq.java:250:	LocalVariableCouldBeFinal: Local variable 'Tipcode2' could be declared final
+src/jsq.java:252:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'tiptype1' (lines '252'-'412').
+src/jsq.java:252:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'tiptype1' (lines '252'-'412').
+src/jsq.java:252:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'tiptype2' (lines '252'-'412').
+src/jsq.java:252:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'tiptype2' (lines '252'-'412').
+src/jsq.java:254:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'bracket' (lines '254'-'400').
+src/jsq.java:254:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'bracket' (lines '254'-'400').
+src/jsq.java:254:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'bracket' (lines '254'-'412').
+src/jsq.java:254:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'bracket' (lines '254'-'412').
+src/jsq.java:256:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:256:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:257:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:257:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:258:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:258:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:259:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:259:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:260:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:260:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:260:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:260:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:265:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:265:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:266:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:266:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:268:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:268:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:270:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:270:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:272:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:272:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:272:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:272:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:274:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:274:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:274:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:274:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:276:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:276:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:276:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:276:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:278:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:278:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:282:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:282:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:284:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:284:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:286:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:286:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:288:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:288:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:288:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:288:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:290:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:290:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:290:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:290:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:292:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:292:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:292:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:292:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/jsq.java:294:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:294:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:299:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
+src/jsq.java:299:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
+src/jsq.java:303:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:303:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:303:	UselessParentheses: Useless parentheses.
+src/jsq.java:303:	UselessParentheses: Useless parentheses.
+src/jsq.java:305:	ControlStatementBraces: This statement should have braces
+src/jsq.java:305:	ControlStatementBraces: This statement should have braces
+src/jsq.java:311:	ControlStatementBraces: This statement should have braces
+src/jsq.java:311:	ControlStatementBraces: This statement should have braces
+src/jsq.java:316:	ControlStatementBraces: This statement should have braces
+src/jsq.java:316:	ControlStatementBraces: This statement should have braces
+src/jsq.java:318:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:318:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:319:	ControlStatementBraces: This statement should have braces
+src/jsq.java:319:	ControlStatementBraces: This statement should have braces
+src/jsq.java:324:	ControlStatementBraces: This statement should have braces
+src/jsq.java:324:	ControlStatementBraces: This statement should have braces
+src/jsq.java:329:	ControlStatementBraces: This statement should have braces
+src/jsq.java:329:	ControlStatementBraces: This statement should have braces
+src/jsq.java:334:	ControlStatementBraces: This statement should have braces
+src/jsq.java:334:	ControlStatementBraces: This statement should have braces
+src/jsq.java:345:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:345:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:346:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_point' (lines '346'-'350').
+src/jsq.java:346:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_point' (lines '346'-'350').
+src/jsq.java:347:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/jsq.java:347:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/jsq.java:349:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:349:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:350:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_point' (lines '350'-'357').
+src/jsq.java:350:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_point' (lines '350'-'357').
+src/jsq.java:353:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:353:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:353:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:353:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:354:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:354:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:354:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:354:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:355:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:355:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:355:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:355:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:356:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:356:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:357:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_point' (lines '357'-'350').
+src/jsq.java:357:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_point' (lines '357'-'350').
+src/jsq.java:357:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_point' (lines '357'-'360').
+src/jsq.java:357:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_point' (lines '357'-'360').
+src/jsq.java:362:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:362:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:367:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:367:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:368:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_right_bracket' (lines '368'-'372').
+src/jsq.java:368:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_right_bracket' (lines '368'-'372').
+src/jsq.java:369:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/jsq.java:369:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/jsq.java:371:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:371:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:372:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_right_bracket' (lines '372'-'376').
+src/jsq.java:372:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_right_bracket' (lines '372'-'376').
+src/jsq.java:375:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:375:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:376:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_right_bracket' (lines '376'-'372').
+src/jsq.java:376:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_right_bracket' (lines '376'-'372').
+src/jsq.java:376:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_right_bracket' (lines '376'-'376').
+src/jsq.java:376:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_right_bracket' (lines '376'-'376').
+src/jsq.java:386:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:386:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:388:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '388'-'391').
+src/jsq.java:388:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '388'-'391').
+src/jsq.java:388:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '388'-'394').
+src/jsq.java:388:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '388'-'394').
+src/jsq.java:389:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/jsq.java:389:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/jsq.java:390:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:390:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:391:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '391'-'391').
+src/jsq.java:391:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '391'-'391').
+src/jsq.java:391:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '391'-'394').
+src/jsq.java:391:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '391'-'394').
+src/jsq.java:393:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:393:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:394:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '394'-'391').
+src/jsq.java:394:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '394'-'391').
+src/jsq.java:394:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '394'-'394').
+src/jsq.java:394:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'tip_bracket' (lines '394'-'394').
+src/jsq.java:400:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'bracket' (lines '400'-'412').
+src/jsq.java:400:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'bracket' (lines '400'-'412').
+src/jsq.java:403:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:403:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:403:	CollapsibleIfStatements: These nested if statements could be combined
+src/jsq.java:403:	CollapsibleIfStatements: These nested if statements could be combined
+src/jsq.java:414:	CommentSize: Comment is too large: Too many lines
+src/jsq.java:414:	CommentSize: Comment is too large: Too many lines
+src/jsq.java:425:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:425:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:425:	ExcessiveMethodLength: Avoid really long methods.
+src/jsq.java:425:	ExcessiveMethodLength: Avoid really long methods.
+src/jsq.java:425:	MethodArgumentCouldBeFinal: Parameter 'str' is not assigned and could be declared final
+src/jsq.java:425:	MethodArgumentCouldBeFinal: Parameter 'str' is not assigned and could be declared final
+src/jsq.java:425:	ModifiedCyclomaticComplexity: The method 'process' has a Modified Cyclomatic Complexity of 21.
+src/jsq.java:425:	ModifiedCyclomaticComplexity: The method 'process' has a Modified Cyclomatic Complexity of 21.
+src/jsq.java:425:	NPathComplexity: The method 'process(String)' has an NPath complexity of 439054
+src/jsq.java:425:	NPathComplexity: The method 'process(String)' has an NPath complexity of 439054
+src/jsq.java:425:	NcssCount: The method 'process(String)' has a NCSS line count of 105.
+src/jsq.java:425:	NcssCount: The method 'process(String)' has a NCSS line count of 105.
+src/jsq.java:426:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'flag' (lines '426'-'446').
+src/jsq.java:426:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'flag' (lines '426'-'446').
+src/jsq.java:426:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'weightTemp' (lines '426'-'484').
+src/jsq.java:426:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'weightTemp' (lines '426'-'484').
+src/jsq.java:432:	ShortVariable: Avoid variables with short names like ch
+src/jsq.java:432:	ShortVariable: Avoid variables with short names like ch
+src/jsq.java:435:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'number' (lines '435'-'465').
+src/jsq.java:435:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'number' (lines '435'-'465').
+src/jsq.java:436:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'operator' (lines '436'-'498').
+src/jsq.java:436:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'operator' (lines '436'-'498').
+src/jsq.java:437:	LocalVariableCouldBeFinal: Local variable 'expression' could be declared final
+src/jsq.java:437:	LocalVariableCouldBeFinal: Local variable 'expression' could be declared final
+src/jsq.java:439:	LocalVariableCouldBeFinal: Local variable 'expToken' could be declared final
+src/jsq.java:439:	LocalVariableCouldBeFinal: Local variable 'expToken' could be declared final
+src/jsq.java:440:	ShortVariable: Avoid variables with short names like i
+src/jsq.java:440:	ShortVariable: Avoid variables with short names like i
+src/jsq.java:441:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/jsq.java:441:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/jsq.java:445:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:445:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:446:	ControlStatementBraces: This statement should have braces
+src/jsq.java:446:	ControlStatementBraces: This statement should have braces
+src/jsq.java:448:	ControlStatementBraces: This statement should have braces
+src/jsq.java:448:	ControlStatementBraces: This statement should have braces
+src/jsq.java:460:	ControlStatementBraces: This statement should have braces
+src/jsq.java:460:	ControlStatementBraces: This statement should have braces
+src/jsq.java:464:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:464:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/jsq.java:465:	ControlStatementBraces: This statement should have braces
+src/jsq.java:465:	ControlStatementBraces: This statement should have braces
+src/jsq.java:465:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'number' (lines '465'-'465').
+src/jsq.java:465:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'number' (lines '465'-'465').
+src/jsq.java:473:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:473:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:474:	ControlStatementBraces: This statement should have braces
+src/jsq.java:474:	ControlStatementBraces: This statement should have braces
+src/jsq.java:475:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:475:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:476:	ControlStatementBraces: This statement should have braces
+src/jsq.java:476:	ControlStatementBraces: This statement should have braces
+src/jsq.java:497:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'weight' (lines '497'-'581').
+src/jsq.java:497:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'weight' (lines '497'-'581').
+src/jsq.java:498:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'operator' (lines '498'-'498').
+src/jsq.java:498:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'operator' (lines '498'-'498').
+src/jsq.java:498:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'operator' (lines '498'-'535').
+src/jsq.java:498:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'operator' (lines '498'-'535').
+src/jsq.java:498:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'operator' (lines '498'-'581').
+src/jsq.java:498:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'operator' (lines '498'-'581').
+src/jsq.java:503:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
+src/jsq.java:503:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
+src/jsq.java:518:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/jsq.java:518:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/jsq.java:524:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:524:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:524:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:524:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:530:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'topNum' (lines '530'-'570').
+src/jsq.java:530:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'topNum' (lines '530'-'570').
+src/jsq.java:530:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'topNum' (lines '530'-'581').
+src/jsq.java:530:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'topNum' (lines '530'-'581').
+src/jsq.java:534:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'weight' (lines '534'-'581').
+src/jsq.java:534:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'weight' (lines '534'-'581').
+src/jsq.java:535:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'operator' (lines '535'-'581').
+src/jsq.java:535:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'operator' (lines '535'-'581').
+src/jsq.java:544:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
+src/jsq.java:544:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
+src/jsq.java:558:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/jsq.java:558:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/jsq.java:564:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:564:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:564:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:564:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:570:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'topNum' (lines '570'-'570').
+src/jsq.java:570:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'topNum' (lines '570'-'570').
+src/jsq.java:570:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'topNum' (lines '570'-'581').
+src/jsq.java:570:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'topNum' (lines '570'-'581').
+src/jsq.java:574:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:574:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/jsq.java:579:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:579:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:579:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:579:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:579:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:579:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/jsq.java:583:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:583:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:583:	MethodArgumentCouldBeFinal: Parameter 'n' is not assigned and could be declared final
+src/jsq.java:583:	MethodArgumentCouldBeFinal: Parameter 'n' is not assigned and could be declared final
+src/jsq.java:583:	ShortMethodName: Avoid using short method names
+src/jsq.java:583:	ShortMethodName: Avoid using short method names
+src/jsq.java:583:	ShortVariable: Avoid variables with short names like n
+src/jsq.java:583:	ShortVariable: Avoid variables with short names like n
+src/jsq.java:586:	LocalVariableCouldBeFinal: Local variable 'format' could be declared final
+src/jsq.java:586:	LocalVariableCouldBeFinal: Local variable 'format' could be declared final
+src/jsq.java:590:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:590:	CommentRequired: Public method and constructor comments are required
+src/jsq.java:590:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/jsq.java:590:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/jsq.java:591:	LocalVariableCouldBeFinal: Local variable 'calculator' could be declared final
+src/jsq.java:591:	LocalVariableCouldBeFinal: Local variable 'calculator' could be declared final
+src/juzhenzhi.java:2:	CommentRequired: Class comments are required
+src/juzhenzhi.java:2:	CommentRequired: Class comments are required
+src/juzhenzhi.java:2:	ModifiedCyclomaticComplexity: The class 'juzhenzhi' has a Modified Cyclomatic Complexity of 14 (Highest = 25).
+src/juzhenzhi.java:2:	ModifiedCyclomaticComplexity: The class 'juzhenzhi' has a Modified Cyclomatic Complexity of 14 (Highest = 25).
+src/juzhenzhi.java:2:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/juzhenzhi.java:2:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/juzhenzhi.java:2:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/juzhenzhi.java:2:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/juzhenzhi.java:5:	CommentRequired: Public method and constructor comments are required
+src/juzhenzhi.java:5:	CommentRequired: Public method and constructor comments are required
+src/juzhenzhi.java:5:	ExcessiveMethodLength: Avoid really long methods.
+src/juzhenzhi.java:5:	ExcessiveMethodLength: Avoid really long methods.
+src/juzhenzhi.java:5:	MethodArgumentCouldBeFinal: Parameter 'List' is not assigned and could be declared final
+src/juzhenzhi.java:5:	MethodArgumentCouldBeFinal: Parameter 'List' is not assigned and could be declared final
+src/juzhenzhi.java:5:	MethodArgumentCouldBeFinal: Parameter 'Matrix' is not assigned and could be declared final
+src/juzhenzhi.java:5:	MethodArgumentCouldBeFinal: Parameter 'Matrix' is not assigned and could be declared final
+src/juzhenzhi.java:5:	MethodArgumentCouldBeFinal: Parameter 'error_' is not assigned and could be declared final
+src/juzhenzhi.java:5:	MethodArgumentCouldBeFinal: Parameter 'error_' is not assigned and could be declared final
+src/juzhenzhi.java:5:	ModifiedCyclomaticComplexity: The method 'Rank' has a Modified Cyclomatic Complexity of 25.
+src/juzhenzhi.java:5:	ModifiedCyclomaticComplexity: The method 'Rank' has a Modified Cyclomatic Complexity of 25.
+src/juzhenzhi.java:5:	NPathComplexity: The method 'Rank(double, int, int)' has an NPath complexity of 33792
+src/juzhenzhi.java:5:	NPathComplexity: The method 'Rank(double, int, int)' has an NPath complexity of 33792
+src/juzhenzhi.java:5:	NcssCount: The method 'Rank(double, int, int)' has a NCSS line count of 80.
+src/juzhenzhi.java:5:	NcssCount: The method 'Rank(double, int, int)' has a NCSS line count of 80.
+src/juzhenzhi.java:7:	ShortVariable: Avoid variables with short names like n
+src/juzhenzhi.java:7:	ShortVariable: Avoid variables with short names like n
+src/juzhenzhi.java:8:	ShortVariable: Avoid variables with short names like m
+src/juzhenzhi.java:8:	ShortVariable: Avoid variables with short names like m
+src/juzhenzhi.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'i' (lines '9'-'16').
+src/juzhenzhi.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'i' (lines '9'-'16').
+src/juzhenzhi.java:9:	ShortVariable: Avoid variables with short names like i
+src/juzhenzhi.java:9:	ShortVariable: Avoid variables with short names like i
+src/juzhenzhi.java:10:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/juzhenzhi.java:10:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/juzhenzhi.java:10:	ShortVariable: Avoid variables with short names like i1
+src/juzhenzhi.java:10:	ShortVariable: Avoid variables with short names like i1
+src/juzhenzhi.java:11:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'j' (lines '11'-'30').
+src/juzhenzhi.java:11:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'j' (lines '11'-'30').
+src/juzhenzhi.java:11:	ShortVariable: Avoid variables with short names like j
+src/juzhenzhi.java:11:	ShortVariable: Avoid variables with short names like j
+src/juzhenzhi.java:12:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/juzhenzhi.java:12:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/juzhenzhi.java:12:	ShortVariable: Avoid variables with short names like j1
+src/juzhenzhi.java:12:	ShortVariable: Avoid variables with short names like j1
+src/juzhenzhi.java:13:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/juzhenzhi.java:13:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/juzhenzhi.java:24:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '24'-'32').
+src/juzhenzhi.java:24:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '24'-'32').
+src/juzhenzhi.java:32:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '32'-'32').
+src/juzhenzhi.java:32:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'temp' (lines '32'-'32').
+src/juzhenzhi.java:32:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'temp' (lines '32'-'136').
+src/juzhenzhi.java:32:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'temp' (lines '32'-'136').
+src/juzhenzhi.java:55:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/juzhenzhi.java:55:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/juzhenzhi.java:59:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/juzhenzhi.java:59:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/juzhenzhi.java:106:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:106:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:106:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:106:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:106:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:106:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:106:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:106:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:106:	UselessParentheses: Useless parentheses.
+src/juzhenzhi.java:106:	UselessParentheses: Useless parentheses.
+src/juzhenzhi.java:111:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:111:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:111:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:111:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/juzhenzhi.java:113:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'temp' (lines '113'-'136').
+src/juzhenzhi.java:113:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'temp' (lines '113'-'136').
+src/juzhenzhi.java:137:	CommentRequired: Public method and constructor comments are required
+src/juzhenzhi.java:137:	CommentRequired: Public method and constructor comments are required
+src/juzhenzhi.java:137:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/juzhenzhi.java:137:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/juzhenzhi.java:139:	LocalVariableCouldBeFinal: Local variable 'TestMatrix' could be declared final
+src/juzhenzhi.java:139:	LocalVariableCouldBeFinal: Local variable 'TestMatrix' could be declared final
+src/juzhenzhi.java:144:	LocalVariableCouldBeFinal: Local variable 'TestMatrix2' could be declared final
+src/juzhenzhi.java:144:	LocalVariableCouldBeFinal: Local variable 'TestMatrix2' could be declared final
+src/juzhenzhi.java:147:	LocalVariableCouldBeFinal: Local variable 'TestMatrix3' could be declared final
+src/juzhenzhi.java:147:	LocalVariableCouldBeFinal: Local variable 'TestMatrix3' could be declared final
+src/juzhenzhi.java:151:	LocalVariableCouldBeFinal: Local variable 'strr' could be declared final
+src/juzhenzhi.java:151:	LocalVariableCouldBeFinal: Local variable 'strr' could be declared final
+src/juzhenzhi.java:152:	LocalVariableCouldBeFinal: Local variable 'strr2' could be declared final
+src/juzhenzhi.java:152:	LocalVariableCouldBeFinal: Local variable 'strr2' could be declared final
+src/juzhenzhi.java:153:	LocalVariableCouldBeFinal: Local variable 'strr3' could be declared final
+src/juzhenzhi.java:153:	LocalVariableCouldBeFinal: Local variable 'strr3' could be declared final
+src/juzhenzhi.java:155:	SystemPrintln: System.out.println is used
+src/juzhenzhi.java:155:	SystemPrintln: System.out.println is used
+src/juzhenzhi.java:156:	SystemPrintln: System.out.println is used
+src/juzhenzhi.java:156:	SystemPrintln: System.out.println is used
+src/juzhenzhi.java:157:	SystemPrintln: System.out.println is used
+src/juzhenzhi.java:157:	SystemPrintln: System.out.println is used
+src/softwareshiyan/GUI.java:7:	CommentRequired: Class comments are required
+src/softwareshiyan/GUI.java:7:	CommentRequired: Class comments are required
+src/softwareshiyan/GUI.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/softwareshiyan/GUI.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/softwareshiyan/GUI.java:7:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 4 (Highest = 21).
+src/softwareshiyan/GUI.java:7:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 4 (Highest = 21).
+src/softwareshiyan/GUI.java:7:	ShortClassName: Avoid short class names like GUI
+src/softwareshiyan/GUI.java:7:	ShortClassName: Avoid short class names like GUI
+src/softwareshiyan/GUI.java:8:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:8:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:9:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:9:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:10:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:10:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:11:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:11:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:12:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:12:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:13:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:13:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:13:	ShortVariable: Avoid variables with short names like ok
+src/softwareshiyan/GUI.java:13:	ShortVariable: Avoid variables with short names like ok
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:14:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:14:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:15:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:15:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:16:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:16:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:17:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:17:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:17:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/softwareshiyan/GUI.java:17:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/softwareshiyan/GUI.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/GUI.java:18:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:18:	CommentRequired: Field comments are required
+src/softwareshiyan/GUI.java:20:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:20:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:20:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:20:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:24:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:24:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:28:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:28:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:28:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:28:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:36:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:36:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:40:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:40:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:40:	ModifiedCyclomaticComplexity: The method 'initGUI' has a Modified Cyclomatic Complexity of 10.
+src/softwareshiyan/GUI.java:40:	ModifiedCyclomaticComplexity: The method 'initGUI' has a Modified Cyclomatic Complexity of 10.
+src/softwareshiyan/GUI.java:40:	NcssCount: The method 'initGUI()' has a NCSS line count of 72.
+src/softwareshiyan/GUI.java:40:	NcssCount: The method 'initGUI()' has a NCSS line count of 72.
+src/softwareshiyan/GUI.java:63:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/softwareshiyan/GUI.java:63:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/softwareshiyan/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:65:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:65:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:65:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:65:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:71:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/GUI.java:71:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/GUI.java:77:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/GUI.java:77:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/GUI.java:83:	AddEmptyString: Do not add empty strings
+src/softwareshiyan/GUI.java:83:	AddEmptyString: Do not add empty strings
+src/softwareshiyan/GUI.java:117:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:117:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:117:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:117:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:117:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+src/softwareshiyan/GUI.java:117:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+src/softwareshiyan/GUI.java:117:	ShortVariable: Avoid variables with short names like e
+src/softwareshiyan/GUI.java:117:	ShortVariable: Avoid variables with short names like e
+src/softwareshiyan/GUI.java:118:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/softwareshiyan/GUI.java:118:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/softwareshiyan/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:136:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:136:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:136:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:136:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:138:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/softwareshiyan/GUI.java:138:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/softwareshiyan/GUI.java:141:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:141:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:141:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:141:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/softwareshiyan/GUI.java:141:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/softwareshiyan/GUI.java:141:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/softwareshiyan/GUI.java:141:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 21.
+src/softwareshiyan/GUI.java:141:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 21.
+src/softwareshiyan/GUI.java:141:	ShortVariable: Avoid variables with short names like e
+src/softwareshiyan/GUI.java:141:	ShortVariable: Avoid variables with short names like e
+src/softwareshiyan/GUI.java:151:	AddEmptyString: Do not add empty strings
+src/softwareshiyan/GUI.java:151:	AddEmptyString: Do not add empty strings
+src/softwareshiyan/GUI.java:153:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:153:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:158:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:158:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:163:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:163:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:166:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/softwareshiyan/GUI.java:166:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/softwareshiyan/GUI.java:167:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:167:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:167:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/softwareshiyan/GUI.java:167:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/softwareshiyan/GUI.java:168:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:168:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:169:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:169:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:173:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/softwareshiyan/GUI.java:173:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/softwareshiyan/GUI.java:175:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:175:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:176:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:176:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:177:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:177:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:178:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:178:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:179:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:179:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:183:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:183:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:187:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:187:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:189:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:189:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:190:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:190:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/softwareshiyan/GUI.java:190:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:190:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:199:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:199:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:202:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:202:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/softwareshiyan/GUI.java:205:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/softwareshiyan/GUI.java:205:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/softwareshiyan/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:230:	AddEmptyString: Do not add empty strings
+src/softwareshiyan/GUI.java:230:	AddEmptyString: Do not add empty strings
+src/softwareshiyan/GUI.java:233:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:233:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUI.java:234:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '234'-'244').
+src/softwareshiyan/GUI.java:234:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '234'-'244').
+src/softwareshiyan/GUI.java:234:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/softwareshiyan/GUI.java:234:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/softwareshiyan/GUI.java:237:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/softwareshiyan/GUI.java:237:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/softwareshiyan/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/GUITest.java:5:	UnusedImports: Avoid unused imports such as 'javax.swing.JButton'
+src/softwareshiyan/GUITest.java:5:	UnusedImports: Avoid unused imports such as 'javax.swing.JButton'
+src/softwareshiyan/GUITest.java:6:	UnusedImports: Avoid unused imports such as 'javax.swing.JComboBox'
+src/softwareshiyan/GUITest.java:6:	UnusedImports: Avoid unused imports such as 'javax.swing.JComboBox'
+src/softwareshiyan/GUITest.java:11:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/softwareshiyan/GUITest.java:11:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/softwareshiyan/GUITest.java:11:	CommentRequired: Class comments are required
+src/softwareshiyan/GUITest.java:11:	CommentRequired: Class comments are required
+src/softwareshiyan/GUITest.java:12:	CommentRequired: Field comments are required
+src/softwareshiyan/GUITest.java:12:	CommentRequired: Field comments are required
+src/softwareshiyan/GUITest.java:15:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUITest.java:15:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUITest.java:15:	UncommentedEmptyMethodBody: Document empty method body
+src/softwareshiyan/GUITest.java:15:	UncommentedEmptyMethodBody: Document empty method body
+src/softwareshiyan/GUITest.java:20:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUITest.java:20:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/GUITest.java:20:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/softwareshiyan/GUITest.java:20:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/softwareshiyan/GUITest.java:24:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/GUITest.java:24:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/GUITest.java:25:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/GUITest.java:25:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cell.java:3:	CommentRequired: Class comments are required
+src/softwareshiyan/cell.java:3:	CommentRequired: Class comments are required
+src/softwareshiyan/cell.java:3:	ShortClassName: Avoid short class names like cell
+src/softwareshiyan/cell.java:3:	ShortClassName: Avoid short class names like cell
+src/softwareshiyan/cell.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/cell.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/cell.java:4:	CommentRequired: Field comments are required
+src/softwareshiyan/cell.java:4:	CommentRequired: Field comments are required
+src/softwareshiyan/cell.java:4:	ImmutableField: Private field 'maxLength' could be made final; it is only initialized in the declaration or constructor.
+src/softwareshiyan/cell.java:4:	ImmutableField: Private field 'maxLength' could be made final; it is only initialized in the declaration or constructor.
+src/softwareshiyan/cell.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/cell.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/cell.java:5:	CommentRequired: Field comments are required
+src/softwareshiyan/cell.java:5:	CommentRequired: Field comments are required
+src/softwareshiyan/cell.java:5:	ImmutableField: Private field 'maxWidth' could be made final; it is only initialized in the declaration or constructor.
+src/softwareshiyan/cell.java:5:	ImmutableField: Private field 'maxWidth' could be made final; it is only initialized in the declaration or constructor.
+src/softwareshiyan/cell.java:6:	CommentRequired: Field comments are required
+src/softwareshiyan/cell.java:6:	CommentRequired: Field comments are required
+src/softwareshiyan/cell.java:7:	CommentRequired: Field comments are required
+src/softwareshiyan/cell.java:7:	CommentRequired: Field comments are required
+src/softwareshiyan/cell.java:9:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:9:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:9:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/softwareshiyan/cell.java:9:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/softwareshiyan/cell.java:9:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/softwareshiyan/cell.java:9:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/softwareshiyan/cell.java:22:	ArrayIsStoredDirectly: The user-supplied array 'grid' is stored directly.
+src/softwareshiyan/cell.java:22:	ArrayIsStoredDirectly: The user-supplied array 'grid' is stored directly.
+src/softwareshiyan/cell.java:22:	MethodArgumentCouldBeFinal: Parameter 'grid' is not assigned and could be declared final
+src/softwareshiyan/cell.java:22:	MethodArgumentCouldBeFinal: Parameter 'grid' is not assigned and could be declared final
+src/softwareshiyan/cell.java:22:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/softwareshiyan/cell.java:22:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/softwareshiyan/cell.java:27:	MethodReturnsInternalArray: Returning 'grid' may expose an internal array.
+src/softwareshiyan/cell.java:27:	MethodReturnsInternalArray: Returning 'grid' may expose an internal array.
+src/softwareshiyan/cell.java:30:	MethodArgumentCouldBeFinal: Parameter 'nowGeneration' is not assigned and could be declared final
+src/softwareshiyan/cell.java:30:	MethodArgumentCouldBeFinal: Parameter 'nowGeneration' is not assigned and could be declared final
+src/softwareshiyan/cell.java:39:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:39:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:41:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/cell.java:41:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/cell.java:47:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:47:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:49:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/cell.java:49:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/cell.java:55:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:55:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:56:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '56'-'61').
+src/softwareshiyan/cell.java:56:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '56'-'61').
+src/softwareshiyan/cell.java:56:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '56'-'64').
+src/softwareshiyan/cell.java:56:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '56'-'64').
+src/softwareshiyan/cell.java:56:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '56'-'67').
+src/softwareshiyan/cell.java:56:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '56'-'67').
+src/softwareshiyan/cell.java:56:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '56'-'75').
+src/softwareshiyan/cell.java:56:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '56'-'75').
+src/softwareshiyan/cell.java:58:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/cell.java:58:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/cell.java:59:	MissingBreakInSwitch: A switch statement does not contain a break
+src/softwareshiyan/cell.java:59:	MissingBreakInSwitch: A switch statement does not contain a break
+src/softwareshiyan/cell.java:61:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '61'-'75').
+src/softwareshiyan/cell.java:61:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '61'-'75').
+src/softwareshiyan/cell.java:64:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '64'-'75').
+src/softwareshiyan/cell.java:64:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '64'-'75').
+src/softwareshiyan/cell.java:67:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '67'-'61').
+src/softwareshiyan/cell.java:67:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '67'-'61').
+src/softwareshiyan/cell.java:67:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '67'-'64').
+src/softwareshiyan/cell.java:67:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '67'-'64').
+src/softwareshiyan/cell.java:67:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '67'-'67').
+src/softwareshiyan/cell.java:67:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '67'-'67').
+src/softwareshiyan/cell.java:67:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '67'-'75').
+src/softwareshiyan/cell.java:67:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '67'-'75').
+src/softwareshiyan/cell.java:71:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/cell.java:71:	ControlStatementBraces: This statement should have braces
+src/softwareshiyan/cell.java:78:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:78:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cell.java:78:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/softwareshiyan/cell.java:78:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/softwareshiyan/cell.java:78:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/softwareshiyan/cell.java:78:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/softwareshiyan/cell.java:78:	ShortVariable: Avoid variables with short names like x
+src/softwareshiyan/cell.java:78:	ShortVariable: Avoid variables with short names like x
+src/softwareshiyan/cell.java:78:	ShortVariable: Avoid variables with short names like y
+src/softwareshiyan/cell.java:78:	ShortVariable: Avoid variables with short names like y
+src/softwareshiyan/cell.java:79:	LocalVariableCouldBeFinal: Local variable 'isEmpty' could be declared final
+src/softwareshiyan/cell.java:79:	LocalVariableCouldBeFinal: Local variable 'isEmpty' could be declared final
+src/softwareshiyan/cell.java:79:	UselessParentheses: Useless parentheses.
+src/softwareshiyan/cell.java:79:	UselessParentheses: Useless parentheses.
+src/softwareshiyan/cell.java:90:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/softwareshiyan/cell.java:90:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/softwareshiyan/cell.java:90:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/softwareshiyan/cell.java:90:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/softwareshiyan/cell.java:90:	ShortVariable: Avoid variables with short names like x
+src/softwareshiyan/cell.java:90:	ShortVariable: Avoid variables with short names like x
+src/softwareshiyan/cell.java:90:	ShortVariable: Avoid variables with short names like y
+src/softwareshiyan/cell.java:90:	ShortVariable: Avoid variables with short names like y
+src/softwareshiyan/cell.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '91'-'105').
+src/softwareshiyan/cell.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '91'-'105').
+src/softwareshiyan/cell.java:91:	ShortVariable: Avoid variables with short names like n
+src/softwareshiyan/cell.java:91:	ShortVariable: Avoid variables with short names like n
+src/softwareshiyan/cell.java:101:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/softwareshiyan/cell.java:101:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/softwareshiyan/cellTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/softwareshiyan/cellTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/softwareshiyan/cellTest.java:8:	CommentRequired: Class comments are required
+src/softwareshiyan/cellTest.java:8:	CommentRequired: Class comments are required
+src/softwareshiyan/cellTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/cellTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/softwareshiyan/cellTest.java:10:	CommentRequired: Field comments are required
+src/softwareshiyan/cellTest.java:10:	CommentRequired: Field comments are required
+src/softwareshiyan/cellTest.java:12:	CommentRequired: Field comments are required
+src/softwareshiyan/cellTest.java:12:	CommentRequired: Field comments are required
+src/softwareshiyan/cellTest.java:14:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cellTest.java:14:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cellTest.java:18:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cellTest.java:18:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cellTest.java:19:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:19:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:23:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cellTest.java:23:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cellTest.java:23:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/softwareshiyan/cellTest.java:23:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/softwareshiyan/cellTest.java:24:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '24'-'27').
+src/softwareshiyan/cellTest.java:24:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '24'-'27').
+src/softwareshiyan/cellTest.java:24:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '24'-'30').
+src/softwareshiyan/cellTest.java:24:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '24'-'30').
+src/softwareshiyan/cellTest.java:27:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '27'-'27').
+src/softwareshiyan/cellTest.java:27:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '27'-'27').
+src/softwareshiyan/cellTest.java:27:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '27'-'30').
+src/softwareshiyan/cellTest.java:27:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '27'-'30').
+src/softwareshiyan/cellTest.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:35:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:35:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:36:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:36:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/softwareshiyan/cellTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:41:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cellTest.java:41:	CommentRequired: Public method and constructor comments are required
+src/softwareshiyan/cellTest.java:41:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/softwareshiyan/cellTest.java:41:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/softwareshiyan/cellTest.java:43:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '43'-'46').
+src/softwareshiyan/cellTest.java:43:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '43'-'46').
+src/softwareshiyan/cellTest.java:46:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '46'-'46').
+src/softwareshiyan/cellTest.java:46:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '46'-'46').
+src/softwareshiyan/cellTest.java:51:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:51:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:52:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:52:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:53:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:53:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:54:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:54:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:55:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:55:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:56:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:56:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '59'-'59').
+src/softwareshiyan/cellTest.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '59'-'59').
+src/softwareshiyan/cellTest.java:63:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/softwareshiyan/cellTest.java:63:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/videotry.java:2:	CommentRequired: Class comments are required
+src/videotry.java:2:	CommentRequired: Class comments are required
+src/videotry.java:2:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/videotry.java:2:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/videotry.java:2:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/videotry.java:2:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/videotry.java:4:	CommentRequired: Public method and constructor comments are required
+src/videotry.java:4:	CommentRequired: Public method and constructor comments are required
+src/videotry.java:4:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/videotry.java:4:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/zuoyi.java:7:	CommentRequired: Class comments are required
+src/zuoyi.java:7:	CommentRequired: Class comments are required
+src/zuoyi.java:7:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/zuoyi.java:7:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/zuoyi.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/zuoyi.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/zuoyi.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the reserve method if you want a default access modifier
+src/zuoyi.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the reserve method if you want a default access modifier
+src/zuoyi.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/zuoyi.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/zuoyi.java:8:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/zuoyi.java:8:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/zuoyi.java:8:	MethodArgumentCouldBeFinal: Parameter 'start' is not assigned and could be declared final
+src/zuoyi.java:8:	MethodArgumentCouldBeFinal: Parameter 'start' is not assigned and could be declared final
+src/zuoyi.java:10:	LocalVariableCouldBeFinal: Local variable 'temp' could be declared final
+src/zuoyi.java:10:	LocalVariableCouldBeFinal: Local variable 'temp' could be declared final
+src/zuoyi.java:16:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the result method if you want a default access modifier
+src/zuoyi.java:16:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the result method if you want a default access modifier
+src/zuoyi.java:16:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/zuoyi.java:16:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/zuoyi.java:16:	MethodArgumentCouldBeFinal: Parameter 'arr' is not assigned and could be declared final
+src/zuoyi.java:16:	MethodArgumentCouldBeFinal: Parameter 'arr' is not assigned and could be declared final
+src/zuoyi.java:16:	MethodArgumentCouldBeFinal: Parameter 'n' is not assigned and could be declared final
+src/zuoyi.java:16:	MethodArgumentCouldBeFinal: Parameter 'n' is not assigned and could be declared final
+src/zuoyi.java:16:	MethodArgumentCouldBeFinal: Parameter 'p' is not assigned and could be declared final
+src/zuoyi.java:16:	MethodArgumentCouldBeFinal: Parameter 'p' is not assigned and could be declared final
+src/zuoyi.java:16:	ShortVariable: Avoid variables with short names like n
+src/zuoyi.java:16:	ShortVariable: Avoid variables with short names like n
+src/zuoyi.java:16:	ShortVariable: Avoid variables with short names like p
+src/zuoyi.java:16:	ShortVariable: Avoid variables with short names like p
+src/zuoyi.java:22:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the display method if you want a default access modifier
+src/zuoyi.java:22:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the display method if you want a default access modifier
+src/zuoyi.java:22:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/zuoyi.java:22:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/zuoyi.java:22:	MethodArgumentCouldBeFinal: Parameter 'arr' is not assigned and could be declared final
+src/zuoyi.java:22:	MethodArgumentCouldBeFinal: Parameter 'arr' is not assigned and could be declared final
+src/zuoyi.java:22:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/zuoyi.java:22:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/zuoyi.java:23:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/zuoyi.java:23:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/zuoyi.java:24:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/zuoyi.java:24:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/zuoyi.java:24:	SystemPrintln: System.out.print is used
+src/zuoyi.java:24:	SystemPrintln: System.out.print is used
+src/zuoyi.java:25:	SystemPrintln: System.out.print is used
+src/zuoyi.java:25:	SystemPrintln: System.out.print is used
+src/zuoyi.java:28:	CommentRequired: Public method and constructor comments are required
+src/zuoyi.java:28:	CommentRequired: Public method and constructor comments are required
+src/zuoyi.java:28:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/zuoyi.java:28:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/zuoyi.java:29:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/zuoyi.java:29:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/zuoyi.java:29:	ShortVariable: Avoid variables with short names like a
+src/zuoyi.java:29:	ShortVariable: Avoid variables with short names like a
+src/zuoyi.java:30:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/zuoyi.java:30:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/zuoyi.java:30:	ShortVariable: Avoid variables with short names like p
+src/zuoyi.java:30:	ShortVariable: Avoid variables with short names like p
+src/zuoyi.java:32:	SystemPrintln: System.out.println is used
+src/zuoyi.java:32:	SystemPrintln: System.out.println is used
+src/zuoyi.java:33:	SystemPrintln: System.out.println is used
+src/zuoyi.java:33:	SystemPrintln: System.out.println is used
